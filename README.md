@@ -13,10 +13,10 @@ https://github.com/user-attachments/assets/0ea635e3-a1f0-41b6-b357-8258f1dd504a
 
 ### 1. 🏠 **Homepage**
 - **Key Metrics**:
-  - 🤑 **Total Revenue**: 788.14M 
-  - 💰 **Total Profit** : 2.371B
-  - 📦 **Average Shipping Days** :24 days
-  - 📊 **Units Sold** : 8.956M
+  - 🤑 **Total Revenue**
+  - 💰 **Total Profit** 
+  - 📦 **Average Shipping Days** 
+  - 📊 **Units Sold** 
 - **Visualizations**:
   - 📈 **Bar Chart**: Profit by Region
   - 🗺️ **Map Visualization**: Profit by Country
