@@ -34,8 +34,6 @@ https://github.com/user-attachments/assets/0ea635e3-a1f0-41b6-b357-8258f1dd504a
   - 💼 **Diverging Bar Chart**: Profit vs Order by Item
   - 📊 **Line Chart**: Total Revenue and Shipping Days
 
-## 📂 Data
-The dataset includes Amazon's sales data, order priorities, shipping details, and cost metrics. All data is either fictitious or sanitized for demonstration purposes.
 
 ## 🛠️ Technologies Used
 - **Dashboard Creation**: Tableau 🖥️
